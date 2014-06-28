@@ -4,7 +4,7 @@
 
 translator::translator()
 {
-    trDB.setDatabaseName("Qamusi.sqlite");
+    trDB.setDatabaseName("/usr/share/dict/Qamusi.sqlite");
     trDB.open();
 }
 

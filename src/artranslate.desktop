@@ -1,0 +1,24 @@
+[Desktop Entry]
+Categories=Utilities;
+Comment[en_US]=Arabic-English translation tool
+Comment=Arabic-English translation tool
+Comment[ar]=قاموس عربي-إنجليزي
+Exec=arTranslate
+GenericName[en_US]=Dictionary
+GenericName=Dictionary
+GenericName[ar]=قاموس
+Icon=/usr/share/icons/artranslator.png
+MimeType=
+Name[en_US]=arTranslator
+Name=arTranslator
+Name[ar]=مترجم
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
